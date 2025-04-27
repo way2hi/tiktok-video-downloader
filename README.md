@@ -19,3 +19,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 1. Go to the [Releases](https://github.com/ripsaku/tiktok-video-downloader/releases) page and download the latest version.
 2. Open the downloaded .exe file.
 3. Paste the TikTok video URL (supports tiktok.com, www.tiktok.com, or m.tiktok.com).
+4. The video will be downloaded to the same folder as the .exe file with the following format: ``@user_video_videoid.mp4``
